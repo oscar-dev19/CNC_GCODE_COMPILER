@@ -1,0 +1,4 @@
+G00 100 0 Z red  
+G00 100 50 Z blue
+G00 0 50 Z green
+G00 0 0 Z pink
