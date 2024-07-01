@@ -1,4 +1,12 @@
 # CNC G-Code Compiler Documentation
+---
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+
+Author(s):
+  * Oscar Lopez
+  
+Contributor(s):
+  * Oscar Lopez
 
 ## Table of Contents
 - [Overview](#overview)
