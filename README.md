@@ -33,7 +33,7 @@ The **CNC GCODE Compiler** is a Python-based tool designed to simplify the proce
 
   2. run the compiler
      ```bash
-     python copile.py
+     python compile.py
 
 ## Project Structure
   - compile.py: The python compiler that interprets the commands in the g4 file.
