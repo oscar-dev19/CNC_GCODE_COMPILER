@@ -32,3 +32,11 @@
    ```bash
    git clone https://github.com/oscar-dev19/cnc_gcode_compiler.git
    cd cnc_gcode_comp
+
+2. Load prebuilt conda environment:
+   ```bash
+   conda env create -f env/environment.yml
+   conda activate cnc_gcode_compiler
+
+3. 
+
