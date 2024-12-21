@@ -66,9 +66,9 @@ We welcome contributions to improve the CNC GCode Compiler!
 
 #### Current Development Focus
 
-[ ] Enhanced visualization features (e.g., toolpath optimization overlays)
-[ ] Support for additional GCode commands in the simulation
-[ ] Improved error handling and debugging features
+- [ ] Enhanced visualization features (e.g., toolpath optimization overlays)
+- [ ] Support for additional GCode commands in the simulation
+- [ ] Improved error handling and debugging features
 
 
 
