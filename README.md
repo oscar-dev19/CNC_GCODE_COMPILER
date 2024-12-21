@@ -25,7 +25,8 @@
 
 ### Prerequisites  
 - Conda (Anaconda or Miniconda)  
-
+- java jdk (8 or later) for antlr framework to function.
+  
 ### Steps  
 
 1. Clone the repository:  
@@ -38,5 +39,36 @@
    conda env create -f env/environment.yml
    conda activate cnc_gcode_compiler
 
-3. 
+3. Run compile.py
+   ```bash
+   python compile.py
+
+
+### Usage
+
+**Input**: Provide GCode instructions to the compiler (predefined or custom by default this is in gcode_test file).
+Simulate: Use the turtle package to visualize the GCode execution as a simulated CNC machine toolpath.
+Output: Observe and debug the GCode behavior in the 2D simulation environment.
+
+### Contributing
+
+We welcome contributions to improve the CNC GCode Compiler!
+
+**How to Contribute**
+---
+- Fork the repository.
+- Create a feature branch:
+  ```bash
+  git checkout -b feature-name
+  ```
+
+### Roadmap
+
+#### Current Development Focus
+
+- Enhanced visualization features (e.g., toolpath optimization overlays)
+- Support for additional GCode commands in the simulation
+- Improved error handling and debugging features
+
+
 
